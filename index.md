@@ -3,9 +3,13 @@
 ## Ho Chi Minh City University of Technology - VNU-HCM
 
 **Faculty:** Faculty of Computer Science and Engineering
+
 **Course:** Deep Learning and Its Applications
+
 **Course Code:** CO3133
+
 **Semester:** Semester-261
+
 **Instructor:** Dr.Le Thanh Sach
 
 ---
@@ -19,7 +23,7 @@
 | Full Name      | Student ID | Role / Contribution      | GitHub                       |
 | -------------  | ---------- | ------------------------ | ---------------------------- |
 |Dang  Thanh Phu | 2452967    |                          | https://github.com/username1 |
-| Member 2 Name  | 22XXXXXX   |                          | https://github.com/username2 |
+|Cao Duc Thanh  | 2453164   |                          | https://github.com/thanhmcpe123 |
 | Member 3 Name  | 22XXXXXX   |                          | https://github.com/username3 |
 | Member 4 Name  | 22XXXXXX   |                          | https://github.com/username4 |
 
