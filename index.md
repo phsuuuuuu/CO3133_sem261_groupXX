@@ -22,7 +22,7 @@
 
 | Full Name      | Student ID | Role / Contribution      | GitHub                       |
 | -------------  | ---------- | ------------------------ | ---------------------------- |
-|Dang  Thanh Phu | 2452967    |                          | https://github.com/username1 |
+|Dang  Thanh Phu | 2452967    |                          | https://github.com/phsuuuuuu |
 |Cao Duc Thanh  | 2453164   |                          | https://github.com/thanhmcpe123 |
 | Member 3 Name  | 22XXXXXX   |                          | https://github.com/username3 |
 | Member 4 Name  | 22XXXXXX   |                          | https://github.com/username4 |
